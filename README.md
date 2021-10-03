@@ -1,4 +1,4 @@
-# <center> Olá, sou o Joás
+# <center> Olá, sou o Joás </center>
  
 <div align="center">
   <a href="https://github.com/joassg">
